@@ -1,2 +1,2 @@
 # Blogas
-Sharing Space blog
+Sharing Space website
