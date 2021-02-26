@@ -1,4 +1,5 @@
 theme: jekyll-theme-minimal
 title: Sharing Space
 logo: /assets/img/sharing-space-logo.png
-description: Sharing Space blogas
+#description: Sharing Space blogas
+show_downloads: false

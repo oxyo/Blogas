@@ -1,12 +1,11 @@
 ## Apie Sharing Space
 
 
-### Idėja
 
-Sharing Space - tai daiktų dalinimosi platforma.\
+Sharing Space - tai daiktų dalinimosi platforma.  
 
 Jei turite perteklinių daiktų, čia juos galite perleisti naudoti kitiems.\
-Ir ne "už dyką", o suteikti šansą antram daikto gyvavimui.\
+Ir ne "už dyką", o suteikti šansą antram daikto gyvavimui.  
 
 Įkeliate daiktą, nurodote naudojimosi terminą, po kurio daiktas vėl gryžta į sistemą. Jūs uždirbate dalijimosi taškus, už kuriuos galite paimti sau reikalingų daiktų, arba džiaugtis erdvesniais namais ir prisidėti prie tvaraus naudojimo. 
 
@@ -53,7 +52,7 @@ Pasibaigus 7d. terminui daiktas automatiškai tampa pasiekiamas visiems dalyviam
 Tuomet yra paslepiami visi įkelti daiktai, kurių dar nespėjo paimti kitas vartotojas.
 
 - Ar galima susigrąžinti į sistemą įkeltus daiktus?
-- Ne. Negalima, nes įkėlimo veiksmu patvirtinamas savininko teisių į daiktą atsisakymas.\
+- Ne. Negalima, nes įkėlimo veiksmu patvirtinamas savininko teisių į daiktą atsisakymas.  
 
 - Kas nutinka su mano įkeltais daiktais, jei nuspręsčiau daugiau nebedalyvauti sistemoje?
 - Daiktus toliau naudoja kiti sistemos dalyviai.
@@ -84,12 +83,26 @@ Tuomet yra paslepiami visi įkelti daiktai, kurių dar nespėjo paimti kitas var
 
 
 ### Projekto vystytojas
-- Techninė dalis - oxyo.lt
-- Organizacinė dalis - bendraminčių komanda
+- [oxyo.lt](https://oxyo.lt) + bendraminčių komanda
 
 
 
 ### Projekto eiga
+- [x] Dalijimosi platforma
+- [x] AI modulis
+- [x] Autentifikacijos modulis
+- [x] Tranzakcijų sistema
+- [x] SMS pranešimai
+- [x] Funkcija - Pauzė
+- [x] Įvykių žurnalas
+- [x] Taškų skaičiavimo modulis
+- [x] SPA - PWA
+- [x] Paieškos ir indeksacijos modulis
+- [x] Autocomplete integracija
+- [x] SSE realaus laiko pranešimai 
+- [ ] Naujų dalyvių pakvietimas 
+- [ ] Automatinis daikto vertės nustatymas
+- [ ] Monitoringo sistema
 
 
 
