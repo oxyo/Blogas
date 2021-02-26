@@ -11,7 +11,7 @@ Ir ne "už dyką", o suteikti šansą antram daikto gyvavimui.
 
 
 
-### Kaip tai veikia
+### Kaip veikia
 
 - Užsiregistruojate sistemoje
 - Įkeliate kelis nereikalingus daiktus
@@ -93,17 +93,20 @@ Tuomet yra paslepiami visi įkelti daiktai, kurių dar nespėjo paimti kitas var
 - [x] Autentifikacijos modulis
 - [x] Tranzakcijų sistema
 - [x] SMS pranešimai
-- [x] Funkcija - Pauzė
+- [ ] Funkcija - Pauzė
 - [x] Įvykių žurnalas
 - [x] Taškų skaičiavimo modulis
 - [x] SPA - PWA
 - [x] Paieškos ir indeksacijos modulis
 - [x] Autocomplete integracija
-- [x] SSE realaus laiko pranešimai 
-- [ ] Naujų dalyvių pakvietimas 
+- [x] SSE realaus laiko pranešimai
+- [ ] Daikto grąžinimas anksčiau laiko
+- [ ] Anglų, rusų k. vertimas
+- [ ] Vartotojo panaikinimas  
+- [ ] Naujų dalyvių pakvietimas
+- [ ] Gedimų registravimo sistema 
 - [ ] Automatinis daikto vertės nustatymas
 - [ ] Monitoringo sistema
-
 
 
 
